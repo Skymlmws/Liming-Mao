@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi there! I am Liming Mao (毛利明).
+
+I am currently a visiting student at the ENCODE Lab, Westlake University, advised by Prof. Huan Wang.I am also pursuing my Master’s degree at the School of Artificial Intelligence, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Yajing Xu.
+
+Previously, I received my B.S. degree from the School of Information and Communication Engineering at BUPT.
 
 ## Research Interests
 
@@ -13,10 +17,8 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 12, 2026]** Started my visiting position at the ENCODE Lab, Westlake University, advised by Prof. Huan Wang.
+
 
 {% include_relative _includes/publications.md %}
 

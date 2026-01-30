@@ -1,22 +1,18 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Time-Member Progressive Inference for Long-Term Tropical Cyclone Track Forecasting"
+    authors: "Lei Luo, Qifeng Qian, Jiahao Luan, <strong>Liming Mao</strong>, Xing Liao, Xuanzhi Chen, Yajing Xu, Jun Guo"
+    conference_short: "J-STARS"
+    conference: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(J-STARS)</strong>, 2025"
+    pdf: "https://ieeexplore.ieee.org/iel8/4609443/4609444/11179990.pdf"
+    notes: "Journal Article"
+    image: "./assets/img/TMPI.png"
+  
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Bi-directional generative retrieval-augmented diffusion models for document-level informative argument extraction"
+    authors: "Lei Luo, Xuanzhi Chen, <strong>Liming Mao</strong>, Xinjie Yang, Yajing Xu, Jun Guo"
+    conference_short: "Neurocomputing"
+    conference: "Neurocomputing, 2025"
+    pdf: "https://doi.org/10.1016/j.neucom.2025.131360"
+    image: "./assets/img/BGRD.png"
+    notes: "Journal Article"
